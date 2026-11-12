@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/acer/OneDrive/Desktop/ricsv
+vriscv_pipeline
+!s110 1793698853
+!i10b 1
+!s100 QID1`^K@QU8V>:c2fOFS81
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK6QaeLnRz:Y<DoTM2R[3X1
+R0
+w1793698595
+8riscv.v
+Friscv.v
+!i122 0
+L0 2 431
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z4 !s108 1793698852.000000
+!s107 riscv.v|riscv_tb.v|
+Z5 !s90 -reportprogress|300|riscv_tb.v|riscv.v|
+!i113 1
+Z6 tCvgOpt 0
+vriscv_pipeline_tb
+!s110 1793698852
+!i10b 1
+!s100 7aGSkc21QhS2QX`Fh3LSK2
+R1
+IabGb>Z1>:U?[imKS@lS041
+R0
+w1793698613
+8riscv_tb.v
+Friscv_tb.v
+!i122 0
+L0 2 100
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z7 !s107 riscv.v|riscv_tb.v|
+R5
+!i113 1
+R6

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/acer/OneDrive/Desktop/opstore
+vdff_4bit
+Z1 !s110 1793611172
+!i10b 1
+!s100 JWkXSOZ8:RJa<M:B>[0hn3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1iT>kY8Ml9d=HnahmR_:[3
+R0
+w1793611011
+8srff.v
+Fsrff.v
+!i122 0
+L0 1 16
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793611172.000000
+!s107 srff.v|srff_tb.v|
+Z6 !s90 -reportprogress|300|srff_tb.v|srff.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_dff_4bit
+R1
+!i10b 1
+!s100 b=M?:UJMO;=?jhY>kDF1b1
+R2
+IKDKiW:SIAPPKTH3B9h@P71
+R0
+w1793611032
+8srff_tb.v
+Fsrff_tb.v
+!i122 0
+L0 3 47
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 srff.v|srff_tb.v|
+R6
+!i113 1
+R7

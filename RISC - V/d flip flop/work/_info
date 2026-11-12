@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/acer/OneDrive/Desktop/d flip flop
+vd_flip_flop
+Z1 !s110 1793595362
+!i10b 1
+!s100 >ePQnUeSTkFB=EW>>YET70
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+If16Mg0ZM3S4MX]<=kB:@E0
+R0
+w1793594880
+8dflipflop.v
+Fdflipflop.v
+!i122 0
+L0 1 16
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793595362.000000
+!s107 dflipflop.v|dflipflop_tb.v|
+Z6 !s90 -reportprogress|300|dflipflop_tb.v|dflipflop.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb_d_flip_flop
+R1
+!i10b 1
+!s100 ljGR6k;;9<j7ZY5Xh0nL61
+R2
+IKmSOc9RW4IV<ESWn5DZ`73
+R0
+w1793594980
+8dflipflop_tb.v
+Fdflipflop_tb.v
+!i122 0
+L0 1 44
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 dflipflop.v|dflipflop_tb.v|
+R6
+!i113 1
+R7
